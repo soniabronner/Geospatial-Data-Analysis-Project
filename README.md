@@ -5,7 +5,7 @@ This multiple-part geospatial analytics university project combines spatial plot
 
 ### Technical stack
 - **Python:** GeoPandas, Pandas, NumPy
-- **Spatial statistics:** PySAL / esda (Moran’s I, LISA)
+- **Spatial statistics:** PySAL / esda (Moran’s I, LISA), Kernel Density Estimation (KDE)
 - **Clustering:** scikit-learn (DBSCAN), regionalisation algorithms
-- **Visualization:** Matplotlib, Seaborn, Contextily
+- **Visualization:** Matplotlib, Seaborn, Contextily, KDE heatmaps
 - **Geoprocessing:** Spatial joins, CRS transformations
